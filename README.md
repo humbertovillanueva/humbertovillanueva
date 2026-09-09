@@ -10,6 +10,8 @@ Peru 🇵🇪 → Salt Lake City, Utah
 
 [Portfolio](https://humbertovillanueva.dev/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/humberto-villanueva-753084347/)
 
+![Profile views](https://komarev.com/ghpvc/?username=humbertovillanueva&label=Profile%20views&color=2563eb&style=flat-square)
+
 </div>
 
 ---
@@ -35,6 +37,14 @@ My current focus is full-stack software, AI integrations, and building data / Io
 | **AI & automation** | LLM integrations · Guardrails · Local models · Automation |
 | **Building data & IoT** | SkySpark · Haxall · Fantom |
 
+### Contributions & consistency
+
+<div align="center">
+
+[![Humberto's total contributions, current streak, and longest streak](https://streak-stats.demolab.com/?user=humbertovillanueva&theme=github-dark-blue&hide_border=true&border_radius=8)](https://github.com/humbertovillanueva?tab=overview)
+
+</div>
+
 ### How I work
 
 I like digging into complicated systems, tracing a stubborn bug to its source, and figuring out what could work better. Sometimes that means a careful fix. Sometimes it means rebuilding the part that everyone has been working around.
@@ -48,4 +58,5 @@ Peruvian roots, life in Salt Lake City, and time for soccer and family. Curiosit
 ---
 
 **Explore my work:** [humbertovillanueva.dev](https://humbertovillanueva.dev/)
+
 **Let's connect:** [Humberto Villanueva on LinkedIn](https://www.linkedin.com/in/humberto-villanueva-753084347/)
