@@ -6,7 +6,7 @@
 
 Building software that connects web applications, intelligent tools, and the physical world.
 
-Peru 🇵🇪 → Salt Lake City, Utah
+Salt Lake City, Utah
 
 [Portfolio](https://humbertovillanueva.dev/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/humberto-villanueva-753084347/)
 
@@ -53,7 +53,7 @@ I like digging into complicated systems, tracing a stubborn bug to its source, a
 
 ### Beyond the code
 
-Peruvian roots, life in Salt Lake City, and time for soccer and family. Curiosity tends to follow me away from the keyboard, too.
+Outside of building software, you’ll find me playing soccer, exploring the outdoors, or spending time with family..
 
 ---
 
