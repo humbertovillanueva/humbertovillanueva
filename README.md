@@ -25,6 +25,12 @@ My current focus is full-stack software, AI integrations, and building data / Io
 - **Smart buildings** — working with Fantom, SkySpark, and Haxall to connect software with building data and IoT.
 - **Cloud & delivery** — bringing applications together with AWS, Docker, databases, and Linux.
 
+### Selected work
+
+- **[Engineering writing](https://humbertovillanueva.dev/writing)** — practical notes about applied AI, software architecture, APIs, and reliable product engineering.
+- **[Portable AI integrations](https://humbertovillanueva.dev/writing/designing-portable-ai-integrations)** — an architecture for keeping product behavior separate from model providers without ignoring capability differences.
+- **[DispatchTrack Lite case study](https://humbertovillanueva.dev/case-studies/dispatchtrack-lite)** — a full-stack delivery workflow connecting a React interface, Java services, and AWS serverless infrastructure.
+
 ### My toolkit
 
 | Area | Technologies |
@@ -53,7 +59,7 @@ I like digging into complicated systems, tracing a stubborn bug to its source, a
 
 ### Beyond the code
 
-Outside of building software, you’ll find me playing soccer, exploring the outdoors, or spending time with family..
+Outside of building software, you’ll find me playing soccer, exploring the outdoors, or spending time with family.
 
 ---
 
