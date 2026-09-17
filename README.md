@@ -8,7 +8,7 @@ Building software that connects web applications, intelligent tools, and the phy
 
 Salt Lake City, Utah
 
-[Portfolio](https://humbertovillanueva.dev/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/humberto-villanueva-753084347/)
+[Portfolio](https://humbertovillanueva.dev/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/humberto-villanueva-dev/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=humbertovillanueva&label=Profile%20views&color=2563eb&style=flat-square)
 
@@ -59,4 +59,4 @@ Outside of building software, you’ll find me playing soccer, exploring the out
 
 **Explore my work:** [humbertovillanueva.dev](https://humbertovillanueva.dev/)
 
-**Let's connect:** [Humberto Villanueva on LinkedIn](https://www.linkedin.com/in/humberto-villanueva-753084347/)
+**Let's connect:** [Humberto Villanueva on LinkedIn](https://www.linkedin.com/in/humberto-villanueva-dev/)
