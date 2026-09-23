@@ -47,7 +47,11 @@ My current focus is full-stack software, AI integrations, and building data / Io
 
 <div align="center">
 
-[![Humberto's total contributions, current streak, and longest streak](https://streak-stats.demolab.com/?user=humbertovillanueva&theme=github-dark-blue&hide_border=true&border_radius=8&timezone=America%2FDenver)](https://github.com/humbertovillanueva?tab=overview)
+[![Humberto's all-time contributions, current streak, and longest streak](https://streak-stats.demolab.com/?user=humbertovillanueva&theme=github-dark-blue&hide_border=true&border_radius=8&timezone=America%2FDenver&v=20260923)](https://github.com/humbertovillanueva?tab=overview)
+
+[View my latest contribution graph on GitHub](https://github.com/humbertovillanueva?tab=overview#year-list-container)
+
+<sub>The card shows all-time contributions and daily streaks in Mountain Time. GitHub’s graph shows the past year. Stats may take up to 24 hours to refresh.</sub>
 
 </div>
 
