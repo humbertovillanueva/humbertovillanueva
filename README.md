@@ -18,7 +18,7 @@ Salt Lake City, Utah
 
 ### What I'm building
 
-My current focus is full-stack software, AI integrations, and building data / IoT systems. I enjoy the work between layers: connecting a useful interface to a reliable API, bringing context to an LLM, or making sense of data from a real building.
+My current focus is full-stack software, AI integrations, and IoT systems that turn building data into useful insights. I enjoy the work between layers: connecting a useful interface to a reliable API, bringing context to an LLM, or making sense of data from a real building.
 
 - **Web & backend systems** — applications, REST APIs, and services that turn complex workflows into useful tools.
 - **Applied AI** — LLM integrations, guardrails, local models, and automation that fits into everyday workflows.
