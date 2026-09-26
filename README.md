@@ -27,9 +27,31 @@ My current focus is full-stack software, AI integrations, and IoT systems that t
 
 ### Selected work
 
-- **[Engineering writing](https://humbertovillanueva.dev/writing)** — practical notes about applied AI, software architecture, APIs, and reliable product engineering.
-- **[Portable AI integrations](https://humbertovillanueva.dev/writing/designing-portable-ai-integrations)** — an architecture for keeping product behavior separate from model providers without ignoring capability differences.
-- **[DispatchTrack Lite case study](https://humbertovillanueva.dev/case-studies/dispatchtrack-lite)** — a full-stack delivery workflow connecting a React interface, Java services, and AWS serverless infrastructure.
+#### Reality Commit · Reviewing changes in physical spaces
+
+A photo records a moment; comparing site visits should help explain what changed. I built a browser-based prototype to compare captures, annotate assets, accept or reject proposed changes, and save review history in IndexedDB with JSON export. Observations are entered manually, and accepted changes require verification notes.
+
+**React · TypeScript · Vite · IndexedDB**
+
+[Try the demo](https://reality-commit.vercel.app/) · [Explore the code](https://github.com/humbertovillanueva/reality-commit) · [Read the architecture](https://github.com/humbertovillanueva/reality-commit/blob/main/docs/architecture.md)
+
+#### DispatchTrack Lite · Connecting a delivery workflow end to end
+
+Delivery operations need clear interfaces for stops, statuses, and exceptions. In this independent portfolio project, I connected a React interface to Java handlers through AWS API Gateway and Lambda, with explicit REST contracts and loading, empty, success, and error states. The case study covers the architecture and the deployment boundaries I had to troubleshoot.
+
+**React · Java · AWS Lambda · API Gateway**
+
+[Read the case study](https://humbertovillanueva.dev/case-studies/dispatchtrack-lite)
+
+#### AWS Cloud Quest · Making cloud study interactive
+
+I built a study game to replace passive rereading with active recall: 50 questions, shuffled questions and answers, immediate feedback, and score and streak tracking. It runs directly in the browser with no dependencies or build step.
+
+**HTML · CSS · JavaScript**
+
+[Play the study game](https://humbertovillanueva.github.io/aws-cloud-quest./) · [Explore the code](https://github.com/humbertovillanueva/aws-cloud-quest.)
+
+I also write about the decisions behind software: [portable AI integrations](https://humbertovillanueva.dev/writing/designing-portable-ai-integrations), API design, and reliable product engineering. [Browse my engineering notes →](https://humbertovillanueva.dev/writing)
 
 ### My toolkit
 
