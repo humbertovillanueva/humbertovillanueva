@@ -49,9 +49,9 @@ I built a study game to replace passive rereading with active recall: 50 questio
 
 **HTML · CSS · JavaScript**
 
-[Play the study game](https://humbertovillanueva.github.io/aws-cloud-quest./) · [Explore the code](https://github.com/humbertovillanueva/aws-cloud-quest.)
+[Play the study game](https://humbertovillanueva.github.io/aws-cloud-quest/) · [Explore the code](https://github.com/humbertovillanueva/aws-cloud-quest)
 
-I also write about the decisions behind software: [portable AI integrations](https://humbertovillanueva.dev/writing/designing-portable-ai-integrations), API design, and reliable product engineering. [Browse my engineering notes →](https://humbertovillanueva.dev/writing)
+I also write about the decisions behind software: [making document pipelines fail loudly](https://humbertovillanueva.dev/writing/make-document-pipelines-fail-loudly), [portable AI integrations](https://humbertovillanueva.dev/writing/designing-portable-ai-integrations), API design, and reliable product engineering. [Browse my engineering notes →](https://humbertovillanueva.dev/writing)
 
 ### My toolkit
 
