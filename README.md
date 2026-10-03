@@ -10,7 +10,7 @@ Salt Lake City, Utah
 
 [Portfolio](https://humbertovillanueva.dev/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/humberto-villanueva-dev/)
 
-![Profile views](https://komarev.com/ghpvc/?username=humbertovillanueva&label=Profile%20views&color=2563eb&style=flat-square)
+![Profile views](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dhumbertovillanueva&query=%2F%2F*%5Blocal-name()%3D%27text%27%5D%5B4%5D&label=Profile%20views&color=2563eb&style=flat-square)
 
 </div>
 
